@@ -32,7 +32,7 @@ Project
 - Leading sales channels
 - Bestselling product categories
 
-  ## Project Insights
+## Project Insights
 - Women make up approximately 65% of our customer base, outpurchasing men.
 - Maharashtra, Karnataka, and Uttar Pradesh are the frontrunners in product purchases.
 - The adult demographic (30-49 years) leads our customer segments, contributing to around 50% of purchases.
